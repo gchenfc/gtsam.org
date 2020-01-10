@@ -17,7 +17,7 @@ title: GTSAM
 email: frank.dellaert@gtsam.org
 description: >- # this means to ignore newlines until "baseurl:"
   GTSAM is a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision using factor graphs.
-baseurl: "/gtsam.org" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gtsam.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gtsam4
 github_username: borglab
